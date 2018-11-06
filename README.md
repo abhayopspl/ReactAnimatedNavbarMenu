@@ -1,2 +1,0 @@
-# ReactAnimatedNavbarMenu
-Created with CodeSandbox
